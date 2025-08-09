@@ -47,5 +47,6 @@
 *.lxo filter=lfs diff=lfs merge=lfs -text
 *.bc filter=lfs diff=lfs merge=lfs -text
 *.pb filter=lfs diff=lfs merge=lfs -text
+*.ckpt* filter=lfs diff=lfs merge=lfs -text
 *.ckpt filter=lfs diff=lfs merge=lfs -text
 20170512-110547/model-20170512-110547.ckpt-250000.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
